@@ -1,5 +1,5 @@
 # JAVA-programs
-Here's the full java programs given to us in this semester
+Here's the full java programs given to us in this semester\n       
 this is a 101 for me 
 tryna figuring out how this platform works
 let's hope for something good
